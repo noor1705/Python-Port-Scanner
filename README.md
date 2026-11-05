@@ -39,3 +39,22 @@ The main purpose of this project is to develop a basic understanding of network 
 ## Disclaimer
 
 This tool is developed for educational and authorized security testing purposes only. Users should scan only systems they own or have explicit permission to test.
+## Screenshots
+
+### Single Port Scan
+![Single Port Scan](Python%20Port%20Scanner%20(1st%20Pic).png)
+
+### Port Range Scan
+![Port Range Scan](Python%20Port%20Scanner%20(2nd%20Pic).png)
+
+### Common Ports Scan
+![Common Ports Scan](Pythin%20Port%20Scanner%20(3rd%20pic).png)
+
+### Scan Output
+![Scan Output](Python%20Port%20Scanner%20(4th%20Pic).png)
+
+### Scan Completed
+![Scan Completed](Python%20Port%20Scanner%20(5th%20Pic).png)
+
+### Additional Result
+![Additional Result](Python%20Port%20Scanner%20(6th%20pic).png)
